@@ -88,11 +88,11 @@ The project concludes with a summary of the findings and suggestions for future 
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/EOR-Well-Log-Analysis.git
+    git clone https://github.com/Nush230501/Enhanced-Oil-Recovery.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd EOR-Well-Log-Analysis
+    cd Enhanced-Oil-Recovery
     ```
 3. Create and activate a virtual environment (optional but recommended):
     ```bash
@@ -110,7 +110,7 @@ To run the analysis on your local machine:
 
 1. Open the Jupyter notebook:
     ```bash
-    jupyter notebook EOR_Well_Log_Analysis.ipynb
+    jupyter notebook EOR_Well_Log.ipynb
     ```
 2. Run the cells in the notebook to perform the analysis.
 
@@ -131,17 +131,11 @@ To run the analysis on your local machine:
 ## Project Structure
 
 ```
-EOR-Well-Log-Analysis/
+Enhanced-Oil-Recovery/
 │
-├── data/
-│   ├── raw_data.csv
-│   └── processed_data.csv
 │
-├── notebooks/
-│   └── EOR_Well_Log_Analysis.ipynb
+│── EOR_Well_Log.ipynb
 │
-├── src/
-│   └── preprocessing.py
 │
 ├── requirements.txt
 └── README.md
